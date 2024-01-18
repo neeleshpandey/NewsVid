@@ -1,0 +1,6 @@
+moviepy
+newsapi-python
+urllib3
+gTTS
+mutagen
+Pillow
